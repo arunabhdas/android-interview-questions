@@ -3,7 +3,7 @@
 
 
 ## What is the Activity lifecycle in Android?
-(https://developer.android.com/guide/components/activities/activity-lifecycle)
+[Android Activity Lifecycle] (https://developer.android.com/guide/components/activities/activity-lifecycle)
 ~~~
 
 To navigate transitions between stages of the activity lifecycle, the Activity class provides a core set of six callbacks: onCreate(), onStart(), onResume(), onPause(), onStop(), and onDestroy(). The system invokes each of these callbacks as an activity enters a new state.
